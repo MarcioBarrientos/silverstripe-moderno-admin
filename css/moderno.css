@@ -45,7 +45,7 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 {
 	font-size: 13px;
 	font-weight: 500;
-	
+
 	margin-left: 32px;
 }
 
@@ -69,7 +69,7 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 	font-size: 0;
 
 	background: none;
-	
+
 	margin-right: 9px;
 }
 
@@ -81,7 +81,7 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 .cms-login-status .logout-link:before
 {
 	content: "\f08b";
-	
+
 	font-size: 16px;
 	font-family: "FontAwesome";
 }
@@ -100,7 +100,7 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 .cms-menu
 {
 	box-shadow: none;
-	
+
 	background: #20282C;
 }
 
@@ -117,11 +117,11 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 
 	border-top: 0;
 	border-bottom: 0;
-	
+
 	font-size: 13px;
 
 	text-shadow: none;
-	
+
 	background-image: none;
 	background-color: rgba(255, 255, 255, 0.05);
 }
@@ -143,7 +143,7 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 	border: none;
 
 	text-shadow: none;
-	
+
 	background-image: none;
 	background-color: #139FDA;
 }
@@ -156,9 +156,9 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 .cms-menu-list li a .icon
 {
 	opacity: 1;
-	
+
 	width: 18px;
-	
+
 	text-align: center;
 }
 
@@ -183,7 +183,7 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 .cms #vakata-contextmenu li a:hover, .TreeDropdownField .treedropdownfield-panel #vakata-contextmenu li a:hover
 {
 	border-radius: 0;
-	
+
 	background: #139FDA none;
 }
 
@@ -198,7 +198,7 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 .cms .cms-panel-padded,
 .ui-tabs .ui-tabs-panel.cms-panel-padded
 {
-	padding: 15px;	
+	padding: 15px;
 }
 
 .cms-panel .cms-panel-toggle
@@ -226,7 +226,7 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 .cms-panel .cms-panel-toggle a span
 {
 	color: #FFF;
-	
+
 	font-size: 0;
 	font-family: "FontAwesome";
 }
@@ -262,7 +262,7 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 .cms .ss-ui-action-tabset.action-menus.ss-tabset ul.ui-tabs-nav li a
 {
 	color: #007FBA;
-	
+
 	text-shadow: none;
 }
 
@@ -281,7 +281,7 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 	box-shadow: none;
 
 	background-image: none;
-	
+
 	border-right: 1px solid #C4C6C8;
 }
 
@@ -293,7 +293,7 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 .cms-content-tools .cms-panel-header
 {
 	box-shadow: none;
-	
+
 	border-bottom: 1px solid #C4C6C8;
 }
 
@@ -320,7 +320,7 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 .cms-content-tools #cms-content-treeview .cms-content-toolbar
 {
 	padding: 5px 0px 5px 2px;
-	
+
 	margin-bottom: 0px !important;
 }
 
@@ -338,14 +338,14 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 .cms-content-controls .icon-mobile:before
 {
 	font-family: "FontAwesome";
-	
+
 	background: none transparent;
-	
+
 	text-align: center;
 	text-indent: 0;
-	
+
 	font-size: 24px;
-	
+
 	color: #444;
 }
 
@@ -413,7 +413,7 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 {
 	width: 24px;
 	height: 24px;
-	
+
 	padding: 3px 5px 5px;
 }
 
@@ -422,7 +422,7 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 	color: #444;
 
 	padding: 5px;
-	
+
 	line-height: 20px;
 }
 
@@ -444,23 +444,23 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 .cms-content-tools .field label
 {
 	display: inline-block !important;
-	
+
 	vertical-align: middle;
-	
+
 	font-weight: 400 !important;
 }
 
 .cms-content-tools .field .description
 {
 	font-size: 11px;
-	
+
 	padding-top: 2px;
 }
 
 .cms-content-tools h4
 {
 	font-size: 13px;
-	
+
 	font-weight: 500;
 }
 
@@ -493,9 +493,9 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 
 	padding: 6px;
 	margin-bottom: 0;
-	
+
 	background: #80888E none;
-	
+
 	border-radius: 0 !important;
 }
 
@@ -507,20 +507,20 @@ body, html, .ui-widget, .ss-ui-button, .ui-widget button, .ui-widget-content, .u
 .cms-content-batchactions .view-mode-batchactions-wrapper label
 {
 	color: #FFF;
-	
+
 	font-weight: 500;
 }
 
 .cms-content-batchactions .cms-batch-actions .dropdown .chzn-single
 {
 	color: #FFF;
-	
+
 	border: 0;
-	
+
 	font-weight: 500;
 
 	padding: 2px 0 2px 8px;
-	
+
 	text-shadow: none;
 
 	background: #60686E;
@@ -562,15 +562,15 @@ fieldset.switch-states
 fieldset.switch-states .switch
 {
 	width: 180px;
-	
+
 	padding: 0px;
 
 	margin-top: 2px;
-	
+
 	box-shadow: none;
-	
+
 	border-radius: 0px;
-	
+
 	background-color: #CED0D3;
 }
 
@@ -589,9 +589,9 @@ fieldset.switch-states .switch .slide-button
 {
 	box-shadow: none;
 	text-shadow: none;
-	
+
 	border-radius: 0px;
-	
+
 	background-color: #0F8845;
 	background-image: none;
 }
@@ -617,7 +617,7 @@ fieldset.switch-states .switch .slide-button
 .ui-tabs .ui-tabs-nav li a
 {
 	padding: 0 14px;
-	
+
 	line-height: 37px;
 }
 
@@ -631,22 +631,26 @@ fieldset.switch-states .switch .slide-button
 .ui-tabs .ui-tabs-nav .ui-state-default a
 {
 	color: #555;
-	
+
 	text-shadow: none;
+
+	outline: none;
 }
 
 .ui-tabs .ui-tabs-nav .ui-state-active
 {
 	border: 1px solid #B8BABC;
-	
+
 	background: #E6EAED none;
 }
 
 .ui-tabs .ui-tabs-nav .ui-state-active a
 {
 	color: #444;
-	
+
 	text-shadow: none;
+
+	outline: none;
 }
 
 .ui-tabs.cms-tabset-primary .ui-tabs-nav .ui-state-default,
@@ -657,7 +661,7 @@ fieldset.switch-states .switch .slide-button
 	border-right: 1px solid #B3B3B3;
 
 	box-shadow: none;
-	
+
 	background-color: #C8CACC;
 	background-image: none;
 }
@@ -675,7 +679,7 @@ fieldset.switch-states .switch .slide-button
 .ui-tabs .cms-content-header-tabs .ui-tabs-nav
 {
 	padding: 0;
-	
+
 	margin-right: -1px;
 }
 
@@ -685,9 +689,9 @@ fieldset.switch-states .switch .slide-button
 	text-indent: 0;
 	line-height: 0;
 	font-weight: 400;
-	
+
 	padding: 0 14px;
-	
+
 	background-image: none !important;
 }
 
@@ -746,11 +750,11 @@ fieldset.switch-states .switch .slide-button
 	color: #40484E;
 
 	margin: 10px 0;
-	
+
 	padding: 0 0 10px;
-	
+
 	box-shadow: none;
-	
+
 	border-bottom: 1px solid #c4c6c8;
 }
 
@@ -759,9 +763,9 @@ fieldset.switch-states .switch .slide-button
 .field .TreeDropdownField
 {
 	background: #FFF;
-	
+
 	border: 1px solid #c4c6c8;
-	
+
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
@@ -795,9 +799,9 @@ fieldset.switch-states .switch .slide-button
 .field.urlsegment .help
 {
 	color: #60686E;
-	
+
 	font-size: 11px;
-	
+
 	margin: 8px 0 4px;
 }
 
@@ -815,13 +819,13 @@ fieldset.switch-states .switch .slide-button
 .field .chzn-container-active .chzn-single
 {
 	box-shadow: none;
-	
+
 	-webkit-border-radius: 0px;
 	-moz-border-radius: 0px;
 	border-radius: 0px;
-	
+
 	border-color: #C4C6C8;
-	
+
 	padding-left: 6px;
 }
 
@@ -829,7 +833,7 @@ fieldset.switch-states .switch .slide-button
 .field .chzn-container-single .chzn-single-with-drop
 {
 	background-color: #FFF;
-	
+
 	border-bottom-left-radius: 0px;
 	border-bottom-right-radius: 0px;
 }
@@ -850,13 +854,13 @@ fieldset.switch-states .switch .slide-button
 	box-shadow: none;
 
 	border-color: #C4C6C8;
-	
+
 	background: #ECEFF1 none;
-	
+
 	padding: 4px 20px 4px 5px;
-	
+
 	margin: 3px 0 3px 3px;
-	
+
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
@@ -871,7 +875,7 @@ fieldset.switch-states .switch .slide-button
 	font-size: 14px;
 	font-family: 'FontAwesome';
 
-	background: none repeat scroll 0 0 rgba(0, 0, 0, 0);	
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
 }
 
 .field .chzn-container-multi .chzn-choices .search-choice .search-choice-close::before
@@ -882,7 +886,7 @@ fieldset.switch-states .switch .slide-button
 .field .chzn-container-multi .chzn-choices .search-choice .search-choice-close:hover
 {
 	color: #555656;
-	
+
 	text-decoration: none;
 }
 
@@ -894,9 +898,9 @@ fieldset.switch-states .switch .slide-button
 	font-size: 0;
 	font-weight: 400;
 	font-family: 'FontAwesome';
-	
+
 	line-height: 24px;
-	
+
 	text-indent: 0;
 	text-align: center;
 
@@ -931,12 +935,12 @@ fieldset.switch-states .switch .slide-button
 .chzn-container .chzn-drop
 {
 	box-shadow: none;
-	
+
 	margin-top: -1px;
-	
+
 	border-top: 1px solid #C4C6C8;
 	border-color: #C4C6C8;
-	
+
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
@@ -961,7 +965,7 @@ fieldset.switch-states .switch .slide-button
 	color: #FFF;
 
 	content: "\f0ab";
-	
+
 	font-family: "FontAwesome";
 	font-size: 13px;
 	font-weight: 400;
@@ -1030,21 +1034,21 @@ fieldset.switch-states .switch .slide-button
 .ss-toggle .ui-accordion-content
 {
 	padding: 0;
-	
+
 	border-color: #C4C6C8;
 }
 
 .ss-toggle .ui-accordion-header.ui-state-default
 {
 	background: #EFF2F4 none;
-	
+
 	text-shadow: none;
 }
 
 .ss-toggle .ui-accordion-content .field > label
 {
 	float: none;
-	
+
 	padding-top: 2px;
 }
 
@@ -1084,7 +1088,7 @@ div.fieldgroup > div.middleColumn > div.field
 
 .cms-search-form .fieldgroup div.fieldgroup-field:first-child
 {
-	margin-top: 0px !important;	
+	margin-top: 0px !important;
 }
 
 .optionset li input,
@@ -1098,8 +1102,14 @@ div.fieldgroup > div.middleColumn > div.field
 	border-radius: 0 !important;
 
 	background: none #EFF2F4 !important;
-	
+
 	border: 1px solid #C4C6C8 !important;
+
+	margin-left: 184px !important;
+
+	clear: none !important;
+
+	max-width: 650px !important;
 }
 
 .ss-uploadfield .ss-uploadfield-item .ss-uploadfield-item-info .ss-uploadfield-item-name
@@ -1108,7 +1118,7 @@ div.fieldgroup > div.middleColumn > div.field
 }
 
 .fieldgroup.stacked .fieldgroup-field
-{	
+{
 	margin-bottom: 10px;
 }
 
@@ -1156,13 +1166,13 @@ div.fieldgroup > div.middleColumn > div.field
 .cms .ss-ui-button
 {
 	border: 0;
-	
+
 	color: #FFF;
-	
+
 	font-weight: 500;
-	
+
 	background: #80888E;
-	
+
 	text-shadow: none;
 }
 
@@ -1170,7 +1180,7 @@ div.fieldgroup > div.middleColumn > div.field
 .cms .ss-ui-button:hover
 {
 	background: #A0A8AE;
-	
+
 	box-shadow: none;
 }
 
@@ -1178,9 +1188,9 @@ div.fieldgroup > div.middleColumn > div.field
 {
 	margin: 0;
 	padding: 0;
-	
+
 	box-shadow: none;
-	
+
 	border-bottom: 0;
 }
 
@@ -1200,7 +1210,7 @@ div.fieldgroup > div.middleColumn > div.field
 
 	margin-left: 0px;
 	margin-right: 8px;
-	
+
 	display: block;
 }
 
@@ -1228,9 +1238,9 @@ div.fieldgroup > div.middleColumn > div.field
 .cms .field.urlsegment button.cancel:active
 {
 	color: #FFF;
-	
+
 	font-weight: 500;
-	
+
 	background: #80888E;
 
 	text-decoration: none;
@@ -1292,9 +1302,9 @@ div.fieldgroup > div.middleColumn > div.field
 	border: 0;
 
 	box-shadow: none;
-	
+
 	background: #80888E;
-	
+
 	text-decoration: none;
 }
 
@@ -1365,19 +1375,19 @@ div.Actions > input.ss-ui-button
 .cms-tree.jstree-apple a:link
 {
 	padding: 4px 6px 4px 4px;
-	
+
 	border-radius: 0;
 }
 
 .jstree-apple .jstree-no-checkboxes a .jstree-icon
 {
 	color: #A4A7A8;
-	
+
 	font-size: 14px;
 	font-family: 'FontAwesome';
-	
+
 	text-align: center;
-	
+
 	background: none transparent;
 }
 
@@ -1397,10 +1407,10 @@ div.Actions > input.ss-ui-button
 	color: #60686E;
 
 	text-align: left;
-	
+
 	font-size: 14px;
 	font-family: 'FontAwesome';
-	
+
 	background: none transparent;
 }
 
@@ -1439,12 +1449,12 @@ div.Actions > input.ss-ui-button
 .jstree-apple .jstree-open > ins
 {
 	color: #60686E;
-	
+
 	font-size: 18px;
 	font-family: 'FontAwesome';
-	
+
 	text-align: center;
-	
+
 	background: none transparent;
 }
 
@@ -1466,18 +1476,18 @@ div.TreeDropdownField .treedropdownfield-toggle-panel-link a
 	right: 0;
 
 	opacity: 1;
-	
+
 	width: 24px;
-	
+
 	position: absolute;
-	
+
 	text-align: center;
 }
 
 .cms .jstree a, .TreeDropdownField .treedropdownfield-panel .jstree a
 {
 	border: 0;
-	
+
 	padding: 4px 6px 4px;
 }
 
@@ -1492,11 +1502,11 @@ div.TreeDropdownField .treedropdownfield-toggle-panel-link a
 
 	font-size: 10px;
 	line-height: 11px;
-	
+
 	margin-top: -2px;
 	margin-left: 4px;
 	margin-right: 0px;
-	
+
 	vertical-align: middle;
 }
 
@@ -1508,9 +1518,9 @@ div.TreeDropdownField .treedropdownfield-panel
 .field div.TreeDropdownField .treedropdownfield-panel
 {
 	border-color: #C4C6C8;
-	
+
 	padding-bottom: 5px;
-	
+
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
@@ -1519,7 +1529,7 @@ div.TreeDropdownField .treedropdownfield-panel
 div.TreeDropdownField .treedropdownfield-search
 {
 	font-family: 'Roboto';
-	
+
 	border-color: #C4C6C8;
 
 	background: url("/framework/admin/thirdparty/chosen/chosen/chosen-sprite.png") no-repeat scroll 100% -22px;
@@ -1528,17 +1538,17 @@ div.TreeDropdownField .treedropdownfield-search
 div.TreeDropdownField .treedropdownfield-title
 {
 	width: 94%;
-	
+
 	padding: 5px;
 }
 
 div.TreeDropdownField .treedropdownfield-toggle-panel-link
 {
 	padding: 5px 0px;
-	
+
 	min-height: 16px;
 	line-height: 15px;
-	
+
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
@@ -1550,10 +1560,10 @@ div.TreeDropdownField .treedropdownfield-toggle-panel-link
 .icon
 {
 	text-indent: 0;
-	
+
 	font-size: 14px;
 	font-family: "FontAwesome";
-	
+
 	background: none !important;
 }
 
@@ -1568,7 +1578,7 @@ div.CMSProfileController .cms-content-header .cms-content-header-info .section-i
 .message
 {
 	padding: 8px;
-	
+
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
@@ -1606,7 +1616,7 @@ div.CMSProfileController .cms-content-header .cms-content-header-info .section-i
 
 	font-size: 15px;
 	font-weight: 500;
-	
+
 	margin-bottom: 0;
 }
 
@@ -1626,7 +1636,7 @@ div.CMSProfileController .cms-content-header .cms-content-header-info .section-i
 .cms-content-actions, .cms-preview-controls
 {
 	box-shadow: none;
-	
+
 	border-top: 1px solid #C4C6C8;
 }
 
@@ -1685,7 +1695,7 @@ div.cms_backlink a.backlink .ui-button-text
 #PageType ul li:hover
 {
 	color: #FFF;
-	
+
 	background-color: #139FDA !important;
 }
 
@@ -1715,7 +1725,7 @@ fieldset.ss-gridfield
 div.ModelAdmin fieldset.ss-gridfield
 {
 	margin-top: 0;
-	
+
 	border-bottom: 0;
 }
 
@@ -1723,7 +1733,7 @@ div.ModelAdmin .ss-gridfield .grid-csv-button,
 div.ModelAdmin .ss-gridfield .grid-print-button
 {
 	float: left;
-	
+
 	display: block;
 
 	margin-bottom: 15px;
@@ -1742,18 +1752,18 @@ div.ModelAdmin .ss-gridfield button
 .cms table.ss-gridfield-table tr.title th
 {
 	background: #788A96;
-	
+
 	text-shadow: none;
-	
+
 	border-bottom: 0;
-	
+
 	padding: 0;
 }
 
 .cms table.ss-gridfield-table tr.title th h2
 {
 	font-weight: 500;
-	
+
 	padding: 5px;
 }
 
@@ -1784,23 +1794,23 @@ div.ModelAdmin .ss-gridfield button
 .cms table.ss-gridfield-table tr th.main
 {
 	border: 0;
-	
+
 	background: #98AAB6;
 }
 
 .cms table.ss-gridfield-table tr th.main span
 {
 	text-shadow: none;
-	
+
 	font-weight: 500;
 }
 
 .cms table.ss-gridfield-table tr.sortable-header th .ss-ui-button
 {
 	font-size: 13px;
-	
+
 	font-weight: 500;
-	
+
 	text-shadow: none;
 }
 
@@ -1849,7 +1859,7 @@ div.ModelAdmin .ss-gridfield button
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
-	
+
 	padding: 4px 8px;
 
 	background: #98AAB6 none;
@@ -1863,7 +1873,7 @@ div.ModelAdmin .ss-gridfield button
 .cms .AssetAdmin table.ss-gridfield-table td.bottom-all
 {
 	padding: 4px 12px !important;
-	
+
 	background: #98AAB6;
 }
 
@@ -1878,7 +1888,7 @@ div.ModelAdmin .ss-gridfield button
 
 	font-size: 0;
 	text-indent: 0;
-	
+
 	background: none transparent;
 }
 
@@ -1931,10 +1941,10 @@ div.ModelAdmin .ss-gridfield button
 {
 	border: 0 !important;
 
-	opacity: 0.75 !important;	
-	
+	opacity: 0.75 !important;
+
 	text-indent: 0 !important;
-	
+
 	background: transparent none !important;
 }
 
@@ -1977,7 +1987,7 @@ div.ModelAdmin .ss-gridfield button
 	font-size: 0;
 	text-indent: 0;
 
-	background: none transparent;	
+	background: none transparent;
 }
 
 .cms table.ss-gridfield-table tbody td a.edit-link
@@ -2024,12 +2034,12 @@ div.ModelAdmin .ss-gridfield button
 	text-indent: 0;
 
 	display: block !important;
-	
+
 	background: none transparent;
 
 	width: 18px;
 	height: 18px;
-	
+
 	line-height: 18px;
 }
 
@@ -2081,7 +2091,7 @@ div.ModelAdmin .ss-gridfield button
 
 	text-align: center;
 	text-indent: 0;
-	
+
 	background: none transparent;
 }
 
@@ -2194,7 +2204,7 @@ div.ModelAdmin .ss-gridfield button
 	padding: 3px;
 
 	margin-top: -1px;
-	
+
 	border: 1px solid silver;
 	box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
 }
@@ -2216,7 +2226,7 @@ div.ModelAdmin .ss-gridfield button
 .ui-timepicker .ui-widget-header
 {
 	border: 0;
-	
+
 	padding: 2px 0;
 
 	background: #788A96 none;
@@ -2240,7 +2250,7 @@ div.ModelAdmin .ss-gridfield button
 	text-decoration: none;
 }
 
-.ui-widget > table .ui-state-default, .ui-widget > table .ui-state-highlight 
+.ui-widget > table .ui-state-default, .ui-widget > table .ui-state-highlight
 {
 	border-color: #C4C6C8;
 	background: none #E6EAED;
@@ -2314,7 +2324,7 @@ div.ModelAdmin .ss-gridfield button
 	font-size: 0;
 	font-weight: 400;
 	font-family: 'FontAwesome';
-	
+
 	text-indent: 0;
 	text-align: center;
 
@@ -2347,7 +2357,7 @@ div.ModelAdmin .ss-gridfield button
 	font-size: 0;
 	font-weight: 400;
 	font-family: 'FontAwesome';
-	
+
 	text-indent: 0;
 	text-align: right;
 
@@ -2390,9 +2400,9 @@ div.ModelAdmin .ss-gridfield button
 .cms-file-info
 {
 	box-shadow: none;
-	
+
 	padding-bottom: 20px;
-	
+
 	border-bottom: 1px solid #C4C6C8;
 }
 
@@ -2429,7 +2439,7 @@ div.ModelAdmin .ss-gridfield button
 .cms .AssetAdmin #Form_filter div.field.date
 {
 	border-bottom: none;
-	
+
 	padding-bottom: 0;
 }
 
@@ -2474,10 +2484,10 @@ div.ModelAdmin .ss-gridfield button
 .ReportAdmin > fieldset > h3
 {
 	color: #444;
-	
+
 	font-size: 15px;
 	font-weight: 500;
-	
+
 	margin: 5px 0 15px;
 }
 
@@ -2491,7 +2501,7 @@ div.ModelAdmin .ss-gridfield button
 	margin: 0px;
 
 	border-bottom: 0px;
-	
+
 	padding-bottom: 15px;
 }
 
@@ -2504,7 +2514,7 @@ div.SecurityAdmin #Form_EditForm_Roles
 {
 	margin-top: 0;
 	margin-bottom: 15px;
-	
+
 	padding-bottom: 20px;
 }
 
